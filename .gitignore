@@ -1,0 +1,24 @@
+# Xcode user data (personal editor state, breakpoints, window layout)
+xcuserdata/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Build artefacts
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Editor swap files
+*.swp
+*.swo
+
+# Claude Code local config
+.claude/
